@@ -1,45 +1,38 @@
 {
   "about": [
     {
+      "id": 1,
       "pageTitle": "Haqqımızda",
       "title": "Sizə verdiyimiz dəyəri hiss edin",
-      "images": [
-        {
-          "id": 1,
-          "img1": "/about1.jpg"
-        },
-        {
-          "id": 2,
-          "img2": "/about2.jpg"
-        }
-      ],
+      "img1": "/about1.jpg",
+      "img2": "/about2.jpg",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique doloremque eaque ipsum iste  harum cumque neque nesciunt facilis unde facere quos sed est,  quisquam quam aliquam quidem dignissimos sint, ipsa odit ab.  Adipisci vel, itaque earum fugit doloribus repudiandae error  impedit aliquam laudantium, perspiciatis reiciendis molestiae  reprehenderit quibusdam, minus voluptatum blanditiis iusto sequi  in. Similique totam, id ipsam eos consequatur praesentium magni  ratione reiciendis quo tenetur quod enim !minus voluptatum  blanditiis iusto sequi in. Similique totam, id ipsam eos  consequatur praesentium magni ratione reiciendis quo tenetur  quod enim !",
-      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique "
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique.Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique "
     }
   ],
   "reasons": [
     {
       "id": 1,
-      "title": "Communication",
-      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "title": "Əlaqə",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "icon": "./communicationIcon.svg"
     },
     {
       "id": 2,
       "title": "Safety",
-      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "icon": "./safetyIcon.svg"
     },
     {
       "id": 3,
       "title": "Quality First",
-      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "icon": "./qualityIcon.svg"
     },
     {
       "id": 4,
       "title": "Best Prices",
-      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "icon": "./priceIcon.svg"
     }
   ],
@@ -77,22 +70,22 @@
     {
       "id": 1,
       "fname": "John Doe",
-      "job": "Co-founder of Loremista",
-      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "image": "/smImg1.png"
     },
     {
       "id": 2,
       "fname": "John Doe",
-      "job": "Co-founder of Loremista",
-      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "image": "/smImg2.png"
     },
     {
       "id": 3,
       "fname": "John Doe",
-      "job": "Co-founder of Loremista",
-      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
       "image": "/smImg3.png"
     }
   ]
